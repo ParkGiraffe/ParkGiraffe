@@ -8,12 +8,12 @@
 <p align='center'>I can work on a project with the cool leadership and philosophy.😎</p>
 
 <h2 align='center'>📖 Technolony Stack 📖 </h2>
-<div justify-content='center'>
+<p align='center'>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-</div>
+</p>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&)
