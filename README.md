@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20GiraffePark&fontSize=70&animation=twinkling)
 
-# 제작 중
-
 <h1 align='center'> 😀 Hello! 😀</h1>
 <p align='center'>I'm Park Yosep, a growing develpoer. 🧑‍💻 </p>
 <p align='center'>I'm in Soongsil Univ. philosopy. 🏫</p>
