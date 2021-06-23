@@ -3,7 +3,7 @@
 <h1 align='center'> 😀 Hello! 😀</h1>
 <p align='center'>I'm Park Yosep, a growing develpoer. 🧑‍💻 </p>
 <p align='center'>I'm in Soongsil Univ. philosopy. 🏫</p>
-<p align='center'>I can work on a project with the cool leadership and philosophy.😎</p>
+<p align='center'>I can work on a project with the cool leadership and philosophy. 😎</p>
 
 <h2 align='center'>📖 Technolony Stack 📖 </h2>
 <p align='center'>
