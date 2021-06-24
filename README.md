@@ -7,12 +7,16 @@
 
 <h2 align='center'>📖 Technolony Stack 📖 </h2>
 <p align='center'>
-  
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 </p>
+
+<p align='center'>What are you doing? 😎</p>
+<p align='center'> - study 'Node JS, MySQL, Node JS express' </p>
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&)
