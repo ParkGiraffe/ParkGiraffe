@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 </p>
 
-<p align='center'>What are you doing? 😎</p>
+<h2 align='center'>What are you doing? 😎</h2>
 <p align='center'> - study 'Node JS, MySQL, Node JS express' </p>
 
 
