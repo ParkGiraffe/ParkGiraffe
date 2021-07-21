@@ -15,7 +15,7 @@
 </p>
 
 <h2 align='center'>What are you doing? 😎</h2>
-<p align='center'> - work as a front-end developer of the team project "Pyeoda" </p>
+<p align='center'> - study "React Native" </p>
 <p align='center'> - study 'Swift' </p>
 
 
